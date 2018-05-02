@@ -1,24 +1,4 @@
-# README
+# JSON API in Rails
+This JSON API is building following specifications in [http://jsonapi.org/](http://jsonapi.org/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The steps for building are in [this presentation](https://slides.com/kattyacuevas/conociendo-json-api#/)
